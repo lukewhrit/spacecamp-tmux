@@ -17,7 +17,7 @@ A port of the Vim theme [Space Camp](https://github.com/jaredgorski/spacecamp) b
 
 ### Using [TPM](https://github.com/tmux-plugins/tpm) (recommended)
 
-If you use TPM you can easily install the theme by simply adding `set -g @plugin 'dracula/tmux'` to your TMUX configuration file.
+If you use TPM you can easily install the theme by simply adding `set -g @plugin 'lukewhrit/spacecamp-tmux'` to your TMUX configuration file.
 
 After that, run `prefix + I` (default prefix is ctrl+b) in your TMUX window. This will fetch the plugin and reload the TMUX session.
 
